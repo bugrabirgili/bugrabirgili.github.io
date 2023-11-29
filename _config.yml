@@ -5,3 +5,6 @@ minima:
 header_pages:
   - about.md
   - projects.md
+rss: rss
+linkedin_username: bugra-birgili-500a7a57
+show_excerpts: true
