@@ -1,6 +1,6 @@
 theme: jekyll-theme-minima
 minima:
-  skin: dark
+  skin: "dark"
   date_format: "%Y-%m-%e, %H:%M"
   header_pages:
-  
+    home.md
