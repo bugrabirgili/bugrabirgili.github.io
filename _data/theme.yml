@@ -1,0 +1,8 @@
+skin: night
+google_fonts:
+  - name: "Noto Sans"
+    weights: "400,400i,600,600i"
+  - name: "Noto Sans Regular"
+navigation_pages:
+  - about.md
+  - cv.md
