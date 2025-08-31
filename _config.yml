@@ -9,7 +9,7 @@ author:
   - name: Bugra Birgili
   - github_username: bugrabirgili
   - linkedin_username: bugra-birgili-500a7a57
-logo: "/assets/images/bb.png"
+logo: "/assets/images/BB.png"
 search: true
 search_full_content: true
 
@@ -37,6 +37,7 @@ rss: RSS
 footer_links:
   - linkedin_username: bugra-birgili-500a7a57
   - github_username: bugrabirgili
+
 show_excerpts: true
 
 # Pagination - https://jekyllrb.com/docs/pagination/
