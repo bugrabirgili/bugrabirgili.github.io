@@ -6,23 +6,50 @@ email: bugrabirgili@gmail.com
 description: "Occasional content about computational chemistry and chemical engineering topics."
 url: https://bugrabirgili.github.io
 author:
-  name: Bugra Birgili
-  github_username: bugrabirgili
-  linkedin_username: bugra-birgili-500a7a57
+  - name: Bugra Birgili
+  - github_username: bugrabirgili
+  - linkedin_username: bugra-birgili-500a7a57
 logo: "/assets/images/bb.png"
 search: true
 search_full_content: true
+
+
+# Build settings
+
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
-
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
 
 
 header_pages:
   - about.md
   - index.md
   - projects.md
+  
 rss: RSS
+
+
 footer_links:
-  linkedin_username: bugra-birgili-500a7a57
-  github_username: bugrabirgili
+  - linkedin_username: bugra-birgili-500a7a57
+  - github_username: bugrabirgili
 show_excerpts: true
+
+# Exclude from being processed by Jekyll
+
+exclude:
+  - CNAME
+  - LICENSE
+
+# Markdown front matter defaults
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
