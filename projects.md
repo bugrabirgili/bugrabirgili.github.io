@@ -1,6 +1,8 @@
 ---
-layout: page
 permalink: /projects
+layout: page
+title: "My Projects"
+paginate: true
 ---
 
 # This is my sample projects page.
