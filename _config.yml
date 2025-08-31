@@ -1,14 +1,28 @@
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
-title: "Bugra Birgili's personal website"
-description: "Occasional content about computational chemistry and chemical engineering topics."
+# Site settings
+
 lang: en-CA
-url: blog.bugrabirgili.io
-author: Bugra Birgili
+title: "Bugra Birgili's personal website"
+email: bugrabirgili@gmail.com
+description: "Occasional content about computational chemistry and chemical engineering topics."
+url: https://bugrabirgili.github.io
+author:
+  name: Bugra Birgili
+  github_username: bugrabirgili
+  linkedin_username: bugra-birgili-500a7a57
+logo: 
+search: true
+search_full_content: true
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+
+
+
+
 header_pages:
   - about.md
+  - index.md
   - projects.md
-rss: rss
-linkedin_username: bugra-birgili-500a7a57
-github_username: bugrabirgili
+rss: RSS
+footer_links:
+  linkedin_username: bugra-birgili-500a7a57
+  github_username: bugrabirgili
 show_excerpts: true
-search: true
