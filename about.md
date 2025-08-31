@@ -1,7 +1,10 @@
 ---
+permalink: /about
 layout: page
 title: "About me"
-permalink: /about
+paginate: true
 ---
 
-About me page
+# About me
+
+This is the about me page
