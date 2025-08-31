@@ -1,7 +1,9 @@
-theme: mmistakes/jekyll-theme-basically-basic@1.4.5
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 title: "Bugra Birgili's personal website"
 description: "Occasional content about computational chemistry and chemical engineering topics."
-# remote_theme: "jekyll-theme-minimal"
+lang: en-CA
+url: blog.bugrabirgili.io
+author: Bugra Birgili
 minima:
   skin: dark
   date_format: "%Y-%m-%e, %H:%M"
@@ -10,4 +12,5 @@ header_pages:
   - projects.md
 rss: rss
 linkedin_username: bugra-birgili-500a7a57
+github_username: bugrabirgili
 show_excerpts: true
