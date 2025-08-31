@@ -4,9 +4,6 @@ description: "Occasional content about computational chemistry and chemical engi
 lang: en-CA
 url: blog.bugrabirgili.io
 author: Bugra Birgili
-minima:
-  skin: dark
-  date_format: "%Y-%m-%e, %H:%M"
 header_pages:
   - about.md
   - projects.md
@@ -14,3 +11,4 @@ rss: rss
 linkedin_username: bugra-birgili-500a7a57
 github_username: bugrabirgili
 show_excerpts: true
+search: true
