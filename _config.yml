@@ -9,7 +9,7 @@ author:
   name: Bugra Birgili
   github_username: bugrabirgili
   linkedin_username: bugra-birgili-500a7a57
-logo: "/assets/images/bb.ico"
+logo: "/assets/images/bb.png"
 search: true
 search_full_content: true
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
