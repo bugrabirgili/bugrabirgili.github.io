@@ -25,7 +25,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-
 header_pages:
   - about.md
   - index.md
@@ -42,7 +41,7 @@ show_excerpts: true
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 
-paginate: 10
+paginate: 5 # The number of posts per page
 paginate_path: /page:num/
 
 
