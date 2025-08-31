@@ -19,6 +19,7 @@ search_full_content: true
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -37,6 +38,12 @@ footer_links:
   - linkedin_username: bugra-birgili-500a7a57
   - github_username: bugrabirgili
 show_excerpts: true
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+
+paginate: 10
+paginate_path: /page:num/
+
 
 # Exclude from being processed by Jekyll
 
