@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /projects
+---
+
 # This is my sample projects page.
 
 I will update this page once I'm done with my thesis.
