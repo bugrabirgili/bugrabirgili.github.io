@@ -1,6 +1,7 @@
 ---
-layout: page
 permalink: /index
+layout: home
+paginate: true
 ---
 
-**🚧 Currently under construction**
+  ** 🚧 Currently under construction. **
