@@ -1,6 +1,6 @@
 ---
 permalink: /about
-layout: page
+layout: about
 title: "About me"
 paginate: true
 ---
