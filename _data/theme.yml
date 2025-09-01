@@ -6,8 +6,8 @@ google_fonts:
   - name: "Noto Sans Regular"
 
 navigation_pages:
-  - about.md
   - projects.md
+  - about.md
 
 footer_links:
   - linkedin_username: bugra-birgili-500a7a57
