@@ -1,8 +1,10 @@
 ---
 permalink: /projects
-layout: page
+layout: posts
 title: "My Projects"
 paginate: true
+sitemap: true
+read_time: true
 ---
 
 # This is my sample projects page.
