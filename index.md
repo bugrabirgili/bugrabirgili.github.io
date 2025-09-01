@@ -1,8 +1,7 @@
 ---
-permalink: /index
+permalink: /home
 layout: home
 paginate: true
-title: "Home page"
 sitemap: true
 read_time: false
 ---
