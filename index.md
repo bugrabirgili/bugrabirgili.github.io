@@ -1,5 +1,4 @@
 ---
-permalink: /home
 layout: home
 paginate: true
 sitemap: true
