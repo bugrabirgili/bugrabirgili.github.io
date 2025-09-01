@@ -8,7 +8,6 @@ google_fonts:
 navigation_pages:
   - about.md
   - projects.md
-  - index.md
 
 footer_links:
   - linkedin_username: bugra-birgili-500a7a57
