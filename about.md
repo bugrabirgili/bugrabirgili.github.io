@@ -2,9 +2,15 @@
 permalink: /about
 layout: about
 title: "About me"
-paginate: true
+paginate: false
+sitemap: false
+read_time: false
 ---
 
-# About me
+# Info about me
 
-This is the about me page
+This is the about me page. I will edit later/
+
+## CV
+
+I will soon add my CV here.
